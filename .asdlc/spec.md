@@ -14,4 +14,5 @@ An internal leave management application where WSO2 employees request time off a
 - A manager approves or rejects a request.
 - Employees view the status of their submitted requests.
 - Everyone can see their current leave balance by type.
+- Notification support
 
